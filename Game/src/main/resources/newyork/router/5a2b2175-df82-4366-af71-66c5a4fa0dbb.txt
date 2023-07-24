@@ -1,0 +1,1 @@
+{"mac":"5a2b2175-df82-4366-af71-66c5a4fa0dbb","ip":"2.0.0.8","mask":"255.0.0.0","gateway":null,"dns":null,"ip2Mac":{},"pcMap":{}}

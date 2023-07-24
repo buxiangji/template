@@ -1,0 +1,1 @@
+{"mac":"0c76751c-113f-4fca-b969-2c671e3f6a00","ip":"2.0.0.46","mask":"255.0.0.0","gateway":null,"dns":null}
